@@ -106,7 +106,7 @@ These are not obligatory but big plus if you implement. Here's few suggestion of
 
 - Implement solution in TypeScript.
 
-- Implement solution in Next.js.
+- Implement solution in React
 
 - Responsive design for mobile device.
 
