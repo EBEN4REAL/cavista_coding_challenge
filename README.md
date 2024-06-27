@@ -117,38 +117,13 @@ These are not obligatory but big plus if you implement. Here's few suggestion of
 - Implement unit tests with Jest & React Testing Library.
 
 - Prefer to use a css methodology, such as BEM.
+
+
+- Make sure your code is maintainable and reusable as much as possible
+
 <br>
 
 ## Submission Guidelines
 
 * Please submit your code by sending a GitHub repository link.
 <br>
-
-
-## Project evaluation table
-
-We are evaluating project according to the features which specified table at the below.
-
-First of all, candidates project should have all requirements at base table.
-<br>
-
-
-| Base requirements                 | Point     |
-| --------------------------------- | --------- |
-| HTML Markup                       | 10 Points |
-| React & State Management          | 20 Points |
-| Production grade & Best practices | 15 Points |
-| Project folder structure          | 5 Points  |
-<br>
-
-You will get extra points if have implement bonus features.
-<br>
-
-
-
-| Bonus              | Point    |
-| ------------------ | -------- |
-| TypeScript         | 15 Point |
-| Next.js            | 5 Point  |
-| Git commit history | 10 Point |
-| Unit Tests         | 20 Point |
