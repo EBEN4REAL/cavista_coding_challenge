@@ -125,5 +125,5 @@ These are not obligatory but big plus if you implement. Here's few suggestion of
 
 ## Submission Guidelines
 
-* Please submit your code by sending a GitHub repository link to eigbinoba@axxess.com
+* Please submit your code by sending a GitHub repository link to eigbinoba@axxess.com, also make sure to include a demo link so we can preview the submitted solution
 <br>
